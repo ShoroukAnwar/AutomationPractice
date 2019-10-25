@@ -1,0 +1,8 @@
+pages\OrderPage.class
+pages\CreateAccountPage.class
+pages\DashBoardPage.class
+pages\AuthenticateNewUserPage.class
+pages\HomePage.class
+pages\BlouseProductsPage.class
+pages\PageBase.class
+pages\OrderHistoryPage.class

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <parameter name="browser" value="ie"/>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="tests.CreateAccountTest">
+        <methods>
+          <include name="startDriver"/>
+          <include name="selectItemFromMenuWithHover"/>
+          <include name="stopDriver"/>
+          <include name="createNewUserSuccessfully"/>
+          <include name="authenticateNewUser"/>
+        </methods>
+      </class> <!-- tests.CreateAccountTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

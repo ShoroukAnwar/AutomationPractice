@@ -1,0 +1,11 @@
+tests\AuthenticateNewUserTest.class
+tests\SelectProductTest.class
+utils\Helper.class
+tests\ConfrimOrderTest.class
+tests\OrderHistoryTest.class
+tests\CreateAccountTest.class
+tests\ProceedOrderTest.class
+tests\TestBase.class
+runner\TestRunner.class
+steps\UserRegistration.class
+tests\SelectFromCategoryTest.class
